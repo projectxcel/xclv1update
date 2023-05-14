@@ -1,9 +1,9 @@
 ProjectExcelsior Core integration/staging tree
 =====================================
 
-[![Build Status](https://travis-ci.org/projectexcelsior-project/projectexcelsior.svg?branch=master)](https://travis-ci.org/projectexcelsior-project/projectexcelsior)
+This is the updated XCL "V1" core wallet for linux. 
 
-https://projectexcelsior.org
+https://projectxcel.com 
 
 What is ProjectExcelsior?
 ----------------
